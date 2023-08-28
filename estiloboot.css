@@ -1,0 +1,22 @@
+.estilo {
+    background-color: #00000079;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Garante que as imagens se ajustem ao carousel corretamente */    
+    height: 100vh; /* Define a altura do container para preencher a tela inteira */    
+
+}
+
+.img {
+    object-fit: cover;
+    text-align: center; /* Centraliza o conteúdo do carousel verticalmente */
+    width: 100%;      
+}
+
+
+
+
+  
+
+  
